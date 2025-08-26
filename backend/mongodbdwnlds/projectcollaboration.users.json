@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "68643b585e94b9232be5a384"
+  },
+  "name": "name1",
+  "email": "name1@mail.com",
+  "password": "$2b$12$F9KoNzZIuQChKh3Iux/LKucjV//OElwUCeT66JigSdukTOqbTEYVq",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864be1eeb3bed88ab8ada03"
+  },
+  "name": "name2",
+  "email": "name2@mail.com",
+  "password": "$2b$12$1wy.CQ.M5TdWGKmGi.jA7upoXSH7F2PJ0QIPzstlyQpIYpq5VWpZG",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864cb1bcee33d9f8327a4f0"
+  },
+  "name": "name3",
+  "email": "name3@mail.com",
+  "password": "$2b$12$.rcQy1PVmkUpQv1D/.FvCekMwy1rG8xbYCjufyMDEObZbERLl6fMO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864cb23cee33d9f8327a4f3"
+  },
+  "name": "name4",
+  "email": "name4@mail.com",
+  "password": "$2b$12$08ha/tU60/fsXVmuB8VCs.aDdkqgEq.qRLx2kUU1jaiJqK05Zoq2W",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864cb63cee33d9f8327a4f6"
+  },
+  "name": "name5",
+  "email": "name5@mail.com",
+  "password": "$2b$12$8H6rn3/TUW4UGAFEbxnEFu4FJ.h0aZMjLRSk9.qi0MwWeglM9b.HC",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864cb6ecee33d9f8327a4f9"
+  },
+  "name": "name6",
+  "email": "name6@mail.com",
+  "password": "$2b$12$p6aWGmJrvug.aLo74/4qbOvm3Vm/L9kZ67bSUp0hVtPaUvb6xEGw2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864cb77cee33d9f8327a4fc"
+  },
+  "name": "name7",
+  "email": "name7@mail.com",
+  "password": "$2b$12$5kSSu2/krV0lwFoymENiO.K7lhj61l4XKY3Xb5jTURzuM4nC3UmQ2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864cbb4d50730cb170e893d"
+  },
+  "name": "name8",
+  "email": "name8@mail.com",
+  "password": "$2b$12$HushSrL/fpzo6koxprRLa.8XhFKZM290pX5WDdEPzN.LDq9ZLTYvy",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864cbbbd50730cb170e8940"
+  },
+  "name": "name9",
+  "email": "name9@mail.com",
+  "password": "$2b$12$oJEnHTGM3wwALUnBYAdA6uv6n2ZHFKuT/hrMFRhAxzhAV2FdghxaS",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6864cbc3d50730cb170e8943"
+  },
+  "name": "name10",
+  "email": "name10@mail.com",
+  "password": "$2b$12$1xhZ/zTBp4HcDXIY6yVz0uAxtwKK02ftqIgEoJg6Y3MsG2ZR8dnJm",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "686775e2859a4ff3abb1d085"
+  },
+  "name": "name11",
+  "email": "name11@mail.com",
+  "password": "$2b$12$R6LLmCK/0oRWXCzL5lzR2eyzUdJ8DAF9dgw3yEEn4w.Gp6lNWH8OC",
+  "__v": 0
+}]
